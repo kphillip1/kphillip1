@@ -9,6 +9,10 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kphillip1/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kphillip1/azure-network-protocols)
+ 
+<h2>📜Certificates:</h2>
+- <a href="https://github.com/kphillip1/kphillip1/assets/165929885/1ce3b133-6156-4165-8bb2-027a8bfb0577">Comptia Security+</a>
+
 
 <h2>🤳Connect with me:</h2>
 
@@ -17,3 +21,8 @@
 
 
 [linkedin]: https://www.linkedin.com/in/phillipkitanski/
+
+
+
+
+
