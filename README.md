@@ -2,13 +2,14 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kphillip1/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kphillip1/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kphillip1/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/kphillip1/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kphillip1/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kphillip1/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kphillip1/azure-network-protocols)
+
  
 <h2>📜Certificates:</h2>
 - <a href="https://github.com/kphillip1/kphillip1/assets/165929885/1ce3b133-6156-4165-8bb2-027a8bfb0577">Comptia Security+</a>
