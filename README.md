@@ -1,4 +1,11 @@
-<h1>Hi, I'm Phillip, an <a href="https://www.linkedin.com/in/phillipkitanski/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Phillip, a <a href="https://www.linkedin.com/in/phillipkitanski/">Cybersecurity and IT Professional</a>☺</h1>
+
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b> Azure / Cloud Security</b>
+  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/kphillip1/azure-soc-honeynet)
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
