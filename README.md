@@ -7,7 +7,7 @@
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/kphillip1/azure-soc-honeynet)
 
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>🖥️ Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kphillip1/configure-ad)
