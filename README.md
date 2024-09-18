@@ -22,6 +22,8 @@
 - <a href="https://github.com/kphillip1/kphillip1/assets/165929885/1ce3b133-6156-4165-8bb2-027a8bfb0577">Comptia Security+</a>
 <br>
 - <a href="https://app.kajabi.com/certificates/9a50fade">Cybersecurity Analyst (LeveldCareers)</a>
+<br>
+- <a href="https://github.com/user-attachments/files/17044714/CompTIA.Server%2B.certificate.pdf">Comptia Server+</a>
 
 
 <h2>🤳Connect with me:</h2>
