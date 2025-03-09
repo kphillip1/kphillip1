@@ -24,7 +24,10 @@
 - <a href="https://app.kajabi.com/certificates/9a50fade">Cybersecurity Analyst (LeveldCareers)</a>
 <br>
 - <a href="https://github.com/user-attachments/files/17044714/CompTIA.Server%2B.certificate.pdf">Comptia Server+</a>
-
+<br>
+- <a href="https://github.com/user-attachments/assets/2fb3181c-9ec5-47ae-8328-5f64191194d8">Cisco CCNA</a>
+<br>
+- <a href="https://www.credly.com/badges/f5108c89-7802-4e2d-8c52-308665012e3a">ISC2 CISSP (Associate)</a>
 
 <h2>🤳Connect with me:</h2>
 
