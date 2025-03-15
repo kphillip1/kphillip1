@@ -6,6 +6,7 @@
 - <b>Cloud Security</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic) w/ Video Demonstration](https://github.com/kphillip1/azure-soc-honeynet)
   - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/kphillip1/threat-hunting-scenario-tor)
+  - [Vulnerability Management Program Implementation](https://github.com/kphillip1/vulnerability-management-program)
 
 
 
