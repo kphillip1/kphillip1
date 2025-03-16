@@ -21,7 +21,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kphillip1/ticket-lifecycle)
 
  
-<h2>📜Certificates:</h2>
+<h2>📜Certifications:</h2>
 - <a href="https://github.com/kphillip1/kphillip1/assets/165929885/1ce3b133-6156-4165-8bb2-027a8bfb0577">Comptia Security+</a>
 <br>
 - <a href="https://app.kajabi.com/certificates/9a50fade">Cybersecurity Analyst (LeveldCareers)</a>
