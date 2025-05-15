@@ -31,6 +31,8 @@
 - <a href="https://github.com/user-attachments/assets/2fb3181c-9ec5-47ae-8328-5f64191194d8">Cisco CCNA</a>
 <br>
 - <a href="https://www.credly.com/badges/f5108c89-7802-4e2d-8c52-308665012e3a">ISC2 CISSP (Associate)</a>
+<br>
+- <a href="https://www.credly.com/badges/1d716a02-0a99-4186-88c2-60f13fffe70b">Red Hat Certified System Administrator</a>
 
 <h2>🤳Connect with me:</h2>
 
